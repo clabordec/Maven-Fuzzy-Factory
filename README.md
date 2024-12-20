@@ -22,39 +22,6 @@ The objective of Maven Fuzzy Factory is to provide an analytical framework for u
 
 ---
 
-## Installation & Setup
-Follow the steps below to set up the Maven Fuzzy Factory project:
-
-### Prerequisites
-1. MySQL Server version 8.0 or higher.
-2. A MySQL client such as MySQL Workbench or a command-line interface.
-3. Basic knowledge of SQL.
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/maven-fuzzy-factory.git
-   cd maven-fuzzy-factory
-   ```
-
-2. Import the database schema:
-   - Locate the `schema.sql` file in the `/database` folder.
-   - Execute the script in your MySQL environment to create the database and tables:
-     ```sql
-     SOURCE /path/to/schema.sql;
-     ```
-
-3. Populate the database:
-   - Use the `data.sql` file in the `/database` folder to load sample data:
-     ```sql
-     SOURCE /path/to/data.sql;
-     ```
-
-4. Execute queries:
-   - Run analytical queries from the `/queries` folder to generate reports and insights.
-
----
-
 ## Repository Structure
 ```
 Maven Fuzzy Factory

@@ -61,35 +61,11 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
 
 ---
 
-## How to Contribute
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add a detailed description of your changes"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Contact
 For questions or suggestions, please contact:
-- **Name:** Your Name  
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Name:** Chaanyah Laborde
+- **Email:** chaanyahlaborde@gmail.com
+- **LinkedIn:** [claborde](https://linkedin.com/in/yourprofile)
 
 ---
 

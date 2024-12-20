@@ -5,8 +5,6 @@
 ## Overview
 Welcome to **Maven Fuzzy Factory**, a data-driven business intelligence project that leverages the power of **MySQL** to uncover actionable insights and optimize decision-making processes. This repository demonstrates advanced database querying, data modeling, and analysis techniques tailored for business intelligence workflows.
 
-<br>
-
 ## Purpose
 The objective of Maven Fuzzy Factory is to provide an analytical framework for understanding key business metrics such as sales performance, inventory management, customer behavior, and operational efficiency. By using **MySQL**, this project ensures scalability, reliability, and flexibility in handling large datasets and producing meaningful insights.
 

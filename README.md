@@ -124,5 +124,3 @@ For questions or suggestions, please contact:
 
 ---
 
-Thank you for exploring Maven Fuzzy Factory! Let's transform data into actionable insights.
-

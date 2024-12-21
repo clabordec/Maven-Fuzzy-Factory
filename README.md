@@ -25,25 +25,6 @@ This repository is a data-driven business intelligence project that leverages th
 
 ---
 
-## Repository Structure
-```
-Maven Fuzzy Factory
-├── database
-│   ├── schema.sql        # Database schema definition
-│   ├── data.sql          # Sample dataset for analysis
-├── queries
-│   ├── sales_analysis.sql
-│   ├── customer_segments.sql
-│   ├── inventory_trends.sql
-│   ├── profitability.sql
-├── docs
-│   ├── ERD.png           # Entity-Relationship Diagram
-│   ├── use_cases.pdf     # Business use cases
-├── README.md             # Project overview and instructions
-```
-
----
-
 ## Use Cases
 Maven Fuzzy Factory addresses the following business intelligence needs:
 

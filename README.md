@@ -2,11 +2,14 @@
 
 <br>
 
-## Overview
-Welcome to **Maven Fuzzy Factory**, a data-driven business intelligence project that leverages the power of **MySQL** to uncover actionable insights and optimize decision-making processes. This repository demonstrates advanced database querying, data modeling, and analysis techniques tailored for business intelligence workflows.
+## Project Overview
+This repository is a data-driven business intelligence project that leverages the power of **MySQL** to uncover actionable insights and optimize decision-making processes. This repository demonstrates advanced database querying, data modeling, and analysis techniques tailored for business intelligence workflows.
 
-## Purpose
-The objective of Maven Fuzzy Factory is to provide an analytical framework for understanding key business metrics such as sales performance, inventory management, customer behavior, and operational efficiency. By using **MySQL**, this project ensures scalability, reliability, and flexibility in handling large datasets and producing meaningful insights.
+## Objectives
+1. **Traffic Source Analysis:** Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic
+2. **Landing Page Performance & Testing:** Landing page analysis and testing is about understanding the performance of the key landing pages and then testing to improve the results
+3. **Channel Portfolio Optimization:** Analyzing a portfolio of marketing channels is about bidding efficienty and using data to maximize the effectiveness of the marketing budget
+4. **Product Level Website Analysis:** Product-focused website analysis is about learning how customers interact with each of your products, and how well each product converts customers
 
 ---
 
@@ -44,10 +47,20 @@ Maven Fuzzy Factory
 ## Use Cases
 Maven Fuzzy Factory addresses the following business intelligence needs:
 
-1. **Sales Performance Tracking:** Identify top-performing products, sales trends over time, and revenue drivers.
-2. **Customer Behavior Analysis:** Segment customers by demographics, purchasing patterns, and lifetime value.
-3. **Inventory Management:** Monitor stock levels, optimize reorder points, and minimize overstock/understock scenarios.
-4. **Profitability Analysis:** Evaluate profit margins across products and regions, and identify high-growth opportunities.
+1. **Traffic Source Analysis**
+     - Analyzing search data and shifting budget towards the engines, campaigns or keywords driving the strongest conversion rates
+     - Comparing user behavior patterns across traffic sources to inform creative and messaging strategy
+     - Identifying opportunities to eliminate wasted spend or scale high-converting traffics
+2. **Landing Page Performance & Testing**
+     -  Identifying your top opportunities for landing pages = high volumne pages with higher than expected bounce rates or low conversion rates
+     -  Setting up A/B experiments on live traffic to see improvement on bounce rates and conversion rates
+     -  Analyzing test results and making recommendations on which version of landing pages you should use going forward 
+3. **Channel Portfolio Optimization**
+     - Understanding which marketing channels are driving the most sessions and orders through the website
+     - Understanding differences in user characteristics and conversion performance across marketing channels
+     - Optimizing bids and allocating marketing spend across a multi-channel portfolio to achieve maximum performance 
+4. **Product Level Website Analysis**
+     - 
 
 ---
 

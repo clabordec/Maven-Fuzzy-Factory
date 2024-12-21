@@ -41,7 +41,9 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
      - Understanding differences in user characteristics and conversion performance across marketing channels
      - Optimizing bids and allocating marketing spend across a multi-channel portfolio to achieve maximum performance 
 4. **Product Level Website Analysis**
-     - 
+     - Understanding which products generate the most interest on multi-product showcase pages
+     - Analyzing the impact on website conversion rates when you add a new product
+     - Building product-specific conversion funnels to understand whether certain products convert better than others.
 
 ---
 

@@ -10,6 +10,8 @@ This repository is a data-driven business intelligence project that leverages th
 2. **Landing Page Performance & Testing:** Landing page analysis and testing is about understanding the performance of the key landing pages and then testing to improve the results
 3. **Channel Portfolio Optimization:** Analyzing a portfolio of marketing channels is about bidding efficienty and using data to maximize the effectiveness of the marketing budget
 4. **Product Level Website Analysis:** Product-focused website analysis is about learning how customers interact with each of your products, and how well each product converts customers
+5. **Analyze Repeat Behavior:** Analyzing repeat visits helps understand user behavior and identify some of the company's most valuable customers
+6. **Analyzing & Testing Conversion Funnels:** Conversion funnels analysis is about understanding and optimizing each step of the user's experience on their journey toward purchasing the company's products
 
 ---
 
@@ -43,7 +45,15 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
 4. **Product Level Website Analysis**
      - Understanding which products generate the most interest on multi-product showcase pages
      - Analyzing the impact on website conversion rates when you add a new product
-     - Building product-specific conversion funnels to understand whether certain products convert better than others.
+     - Building product-specific conversion funnels to understand whether certain products convert better than others
+5. **Analyze Repeat Behavior**
+     - Analyzing repeat activity to see how often customers are coming back to visit the site
+     - Understanding which channels they use when they come back, and whether or not the company is paying for them again through paid channels
+     - Using repeat visit activities to build a better understanding of the value of a customer in order to better optimaize marketing channels
+6. **Analyzing & Testing Conversion Funnels**
+     - Identifying the most common paths customers take before purchasing the company's products
+     - Identifying how many users continue on to each next step in the conversion flow, and how many users abandon at each step
+     - Optimizing critical pain points where users are abandoning, so that the company can convert more users and sell more products
 
 ---
 

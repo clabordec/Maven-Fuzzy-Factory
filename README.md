@@ -63,7 +63,7 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
 - **Window Functions:** ROW_NUMBER, RANK, and PARTITION for advanced analytical queries.
 - **Subqueries:** Nested queries for dynamic filtering and calculations.
 - **Indexes:** Optimized table indexing for faster query execution.
-- **Temporary Tables:** Store intermediate results that needs to be processed and accessed within the scope of a transaction
+- **Temporary Tables:** Store intermediate results that needs to be processed and accessed within the scope of a session
 - **Stored Procedures:** Predefined routines to automate repetitive tasks.
 
 ---

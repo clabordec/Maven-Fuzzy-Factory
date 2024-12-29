@@ -1,6 +1,5 @@
 # Maven Fuzzy Factory
 
-<br>
 
 ## Project Overview
 This repository is a data-driven business intelligence project that leverages the power of **MySQL** to uncover actionable insights and optimize decision-making processes. This repository demonstrates advanced database querying, data modeling, and analysis techniques tailored for business intelligence workflows.

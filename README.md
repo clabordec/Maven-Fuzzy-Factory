@@ -57,7 +57,7 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
 ---
 
 ## Key MySQL Concepts Used
-- **Joins:** Inner joins, left joins, and cross joins for combining datasets.
+- **Joins:** Inner joins and left joins for combining datasets.
 - **Aggregate Functions:** SUM, AVG, COUNT, MAX, and MIN for summarizing data.
 - **Window Functions:** ROW_NUMBER, RANK, and PARTITION for advanced analytical queries.
 - **Subqueries:** Nested queries for dynamic filtering and calculations.

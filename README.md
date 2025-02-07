@@ -69,7 +69,7 @@ Maven Fuzzy Factory addresses the following business intelligence needs:
 
 ## Contact
 For questions or suggestions, please contact:
-- **Name:** Chaanyah Laborde
+- **Author:** Chaanyah Laborde
 - **Email:** chaanyahlaborde@gmail.com
 - **LinkedIn:** [claborde](https://linkedin.com/in/yourprofile)
 

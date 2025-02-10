@@ -5,12 +5,12 @@
 This repository is a data-driven business intelligence project that leverages the power of **MySQL** to uncover actionable insights and optimize decision-making processes. This repository demonstrates advanced database querying, data modeling, and analysis techniques tailored for business intelligence workflows.
 
 ## Objectives
-1. **Traffic Source Analysis:** Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic
-2. **Landing Page Performance & Testing:** Landing page analysis and testing is about understanding the performance of the key landing pages and then testing to improve the results
-3. **Channel Portfolio Optimization:** Analyzing a portfolio of marketing channels is about bidding efficienty and using data to maximize the effectiveness of the marketing budget
-4. **Product Level Website Analysis:** Product-focused website analysis is about learning how customers interact with each of your products, and how well each product converts customers
-5. **Analyze Repeat Behavior:** Analyzing repeat visits helps understand user behavior and identify some of the company's most valuable customers
-6. **Analyzing & Testing Conversion Funnels:** Conversion funnels analysis is about understanding and optimizing each step of the user's experience on their journey toward purchasing the company's products
+- **Traffic Source Analysis:** Traffic source analysis is about understanding where your customers are coming from and which channels are driving the highest quality traffic
+-  **Landing Page Performance & Testing:** Landing page analysis and testing is about understanding the performance of the key landing pages and then testing to improve the results
+- **Channel Portfolio Optimization:** Analyzing a portfolio of marketing channels is about bidding efficienty and using data to maximize the effectiveness of the marketing budget
+- **Product Level Website Analysis:** Product-focused website analysis is about learning how customers interact with each of your products, and how well each product converts customers
+- **Analyze Repeat Behavior:** Analyzing repeat visits helps understand user behavior and identify some of the company's most valuable customers
+- **Analyzing & Testing Conversion Funnels:** Conversion funnels analysis is about understanding and optimizing each step of the user's experience on their journey toward purchasing the company's products
 
 ---
 

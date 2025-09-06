@@ -2,8 +2,7 @@
 
 📌 **Overview**  
 
-This project is a data-driven **business intelligence** analysis that leverages MySQL to uncover actionable insights and optimize decision-making processes.  
-The repository demonstrates advanced querying, data modeling, and analysis techniques tailored for business intelligence workflows.  
+This project is a data-driven **business intelligence** analysis that leverages MySQL to uncover actionable insights and optimize decision-making processes. The repository demonstrates advanced querying, data modeling, and analysis techniques tailored for business intelligence workflows.  
 
 ---
 

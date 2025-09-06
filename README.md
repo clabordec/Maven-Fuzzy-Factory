@@ -41,7 +41,12 @@ The repository demonstrates advanced querying, data modeling, and analysis techn
 - **Channel Portfolio** → Track performance across marketing channels and optimize spend allocation.  
 - **Product Analysis** → Evaluate which products drive conversions and test product-specific funnels.  
 - **Repeat Customers** → Understand loyalty, repeat channel usage, and long-term value.  
-- **Conversion Funnels** → Map user journeys, identify drop-offs, and optimize bottlenecks.  
+- **Conversion Funnels** → Map user journeys, identify drop-offs, and optimize bottlenecks.
+
+---
+
+📂 **Repo Organization**  
+- `queries/` → Organized SQL queries designed for reuse and transparent, reproducible analysis.
 
 ---
 
